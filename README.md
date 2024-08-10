@@ -15,7 +15,6 @@ The Gate Pass Management System is a console-based application designed to facil
 * MySQL: Database management system for storing gate pass request data.
 * JDBC: Java Database Connectivity for interacting with the MySQL database.
 * Git: Version control system for managing project code.
-* JavaFX (optional): Graphical User Interface framework for creating a frontend interface (if extended to GUI).
 
 ## Usage
 To run the Gate Pass Management System, follow these steps:
